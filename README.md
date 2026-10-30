@@ -1,140 +1,251 @@
-# Hi, I'm Rajesh Sarkar 👋
+# Rajesh Sarkar
 
-### Full Stack Developer | MERN | React | Next.js | Node.js
+### Full Stack Developer · MERN · Next.js · Backend · AI Engineering
 
-I build modern, scalable and user-friendly web applications using JavaScript and the MERN/Next.js ecosystem.
+I build production-focused web applications with modern JavaScript technologies, scalable APIs, clean architecture, and intuitive user experiences.
 
-Currently focused on improving my skills in **Full-Stack Development, DSA, System Design and Generative AI**.
+Currently focused on **advanced Full-Stack Development, Data Structures & Algorithms, System Design, and Generative AI**.
+
+<p>
+  <a href="https://github.com/rajeshsarkar95">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://prorajeshsarkar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full Stack Developer
-- ⚛️ Strong focus on React.js and Next.js
-- 🟢 Backend development with Node.js and Express.js
-- 🍃 MongoDB and SQL databases
-- 🔐 Authentication, authorization and REST APIs
-- 🤖 Exploring Generative AI, RAG and AI-powered applications
-- 🧠 Practicing Data Structures & Algorithms
-- 📚 Continuously learning and building real-world projects
+```text
+Role        → Full Stack Developer
+Frontend    → React.js · Next.js · TypeScript
+Backend     → Node.js · Express.js · REST APIs
+Database    → MongoDB · MySQL · PostgreSQL
+Real-time   → Socket.IO
+Cloud       → AWS · Vercel · Render
+AI          → LLM APIs · RAG · AI Applications
+Focus       → Scalable & production-ready applications
+```
+
+I enjoy turning complex requirements into reliable, maintainable software and continuously improving my engineering fundamentals.
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
 ### Frontend
 
-- React.js
-- Next.js
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Redux
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux" />
+</p>
 
-### Backend
+### Backend & Database
 
-- Node.js
-- Express.js
-- REST APIs
-- Socket.IO
-- Authentication & Authorization
-
-### Databases
-
-- MongoDB
-- MySQL
-- PostgreSQL
-
-### AI
-
-- Generative AI
-- OpenAI APIs
-- Gemini APIs
-- RAG
-- AI-powered applications
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+</p>
 
 ### Tools & Cloud
 
-- Git
-- GitHub
-- AWS
-- Vercel
-- Render
-- Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,aws,vercel,postman,docker" />
+</p>
 
----
-
-## 🔥 Featured Projects
-
-### 🎓 EduManage
-
-A full-stack Education Management System for managing students, teachers, classes, attendance, exams, fees and other academic operations.
-
-**Tech:** Next.js, React, Node.js, Express.js, MongoDB
-
----
-
-### 🎁 UphaarBox
-
-A modern gifting/e-commerce platform with product management and backend APIs.
-
-**Tech:** React, Node.js, Express.js, MongoDB
-
----
-
-### 🤖 AI Projects
-
-Currently building projects around:
-
-- RAG
-- AI assistants
-- Document Q&A
-- LLM APIs
-- AI-powered web applications
-
----
-
-## 📈 Currently Learning
+### AI & Engineering
 
 ```text
-MERN Stack
-    ↓
-Advanced JavaScript
-    ↓
-Data Structures & Algorithms
-    ↓
-TypeScript
-    ↓
-System Design
-    ↓
 Generative AI
-    ↓
+LLM APIs
 RAG
-    ↓
-AI Agents
-    ↓
-AI Engineering
+AI Assistants
+Prompt Engineering
+AI-powered Web Applications
 ```
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajeshsarkar95&show_icons=true&theme=default)
+## 🎓 EduManage
+
+### Education Management Platform
+
+A full-stack platform designed to manage educational operations from a centralized dashboard.
+
+**Key Features**
+
+- Student management
+- Teacher management
+- Classes & subjects
+- Attendance
+- Exams
+- Fees
+- Timetable
+- Notifications
+- Authentication & authorization
+- AI assistant
+- REST API architecture
+
+**Stack**
+
+`Next.js` `React` `Node.js` `Express.js` `MongoDB` `REST API`
+
+**Repository:**  
+https://github.com/rajeshsarkar95/EduManage
+
+**Live:**  
+https://edu-manage-eta.vercel.app/
 
 ---
 
-## 📫 Connect With Me
+## 🎁 UphaarBox
 
-- GitHub: https://github.com/rajeshsarkar95
-- LinkedIn: Add your LinkedIn profile
-- Portfolio: Add your portfolio URL
+### Modern Gifting Platform
+
+A full-stack e-commerce/gifting application focused on creating a smooth product discovery and purchasing experience.
+
+**Stack**
+
+`React` `Node.js` `Express.js` `MongoDB` `REST APIs`
+
+**Live:**  
+https://uphaarbox.com/
 
 ---
 
-### 💡 My Goal
+## 🤖 AI Engineering
 
-Build high-quality software, solve challenging engineering problems and grow into a strong **Software Engineer / Full Stack Developer**.
+Currently building and exploring applications around:
+
+```text
+LLMs
+ │
+ ├── AI Assistants
+ │
+ ├── Document Q&A
+ │
+ ├── RAG
+ │    ├── Embeddings
+ │    ├── Vector Search
+ │    └── Context Retrieval
+ │
+ └── AI Agents
+```
+
+My goal is to combine **Full-Stack Engineering + AI** to build practical production applications.
+
+---
+
+# 🧠 Engineering Focus
+
+```text
+                    SOFTWARE ENGINEERING
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+       Frontend          Backend             AI
+          │                 │                 │
+      React/Next        Node/Express         LLM
+          │                 │                 │
+      TypeScript         REST APIs            RAG
+          │                 │                 │
+        Redux           Databases           Agents
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                     System Design
+                            │
+                         DSA
+```
+
+---
+
+# 📚 Currently Learning
+
+### Data Structures & Algorithms
+
+`Arrays → Strings → Hashing → Two Pointers → Sliding Window → Stack → Queue → Linked List → Trees → Graphs → Dynamic Programming`
+
+### Advanced Development
+
+- TypeScript
+- System Design
+- Backend Architecture
+- Performance Optimization
+- Testing
+- CI/CD
+- AWS
+
+### AI Engineering
+
+- LLM APIs
+- Embeddings
+- Vector Databases
+- RAG
+- AI Agents
+- AI Application Architecture
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeshsarkar95&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsarkar95&layout=compact&hide_border=true" height="170" />
+</p>
+
+---
+
+# 🎯 2026–2027 Engineering Goals
+
+```text
+✓ Build production-grade Full Stack applications
+✓ Master JavaScript & TypeScript
+✓ Strengthen DSA fundamentals
+✓ Improve backend architecture
+✓ Learn System Design
+✓ Build RAG applications
+✓ Build AI Agents
+✓ Contribute to Open Source
+✓ Become a stronger Software Engineer
+```
+
+---
+
+# 💼 Open To
+
+```text
+Full Stack Developer
+MERN Stack Developer
+React Developer
+Next.js Developer
+Software Engineer
+SDE-1
+AI / Full Stack Engineer
+```
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/rajeshsarkar95">GitHub</a> ·
+  <a href="https://www.linkedin.com/">LinkedIn</a> ·
+  <a href="https://prorajeshsarkar.vercel.app/">Portfolio</a>
+</p>
+
+---
+
+<p align="center">
+  <b>Build. Learn. Ship. Improve.</b>
+</p>
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
