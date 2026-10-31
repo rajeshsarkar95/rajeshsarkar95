@@ -199,7 +199,9 @@ flowchart TB
 <table>
   <tr>
     <td align="center">
-      [<img src="https://github-readme-stats.vercel.app/api?username=rajeshsarkar95&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D&title_color=8B84FF&icon_color=38BDF8&text_color=C9D1D9&ring_color=8B84FF&border_radius=12" alt="GitHub stats" height="190" />](https://res.cloudinary.com/datu4yytq/image/upload/v1793420513/Screenshot_2026-10-31_093621_pawoci.png)
+      
+     <img src="https://res.cloudinary.com/datu4yytq/image/upload/v1793420513/Screenshot_2026-10-31_093621_pawoci.png" alt="GitHub stats" height="190" />
+      
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsarkar95&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&title_color=8B84FF&text_color=C9D1D9&border_radius=12" alt="Most used languages" height="190" />
