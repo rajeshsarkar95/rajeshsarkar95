@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/rajesh-sarkar-9777b0302/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/rajeshsarkar95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://github.com/rajeshsarkar95?tab=followers"><img src="https://img.shields.io/github/followers/rajeshsarkar95?style=for-the-badge&logo=github&label=Followers&color=0D1117&labelColor=21262d" alt="GitHub followers" /></a>
-  <a href="https://github.com/rajeshsarkar95?tab=repositories"><img src="https://img.shields.io/badge/Open%20to%20Work-34D399?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" /></a>
+  <a href="https://www.linkedin.com/in/rajesh-sarkar-9777b0302/"><img src="https://img.shields.io/badge/Open%20to%20Work-34D399?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" /></a>
 </p>
 
 </div>
@@ -20,7 +20,7 @@
 
 ## 👨‍💻 About
 
-I build production-focused web applications with modern JavaScript technologies, scalable APIs, clean architecture, and intuitive user experiences. I enjoy turning complex requirements into reliable, maintainable software and continuously improving my engineering fundamentals.
+Full Stack Developer focused on building production-ready web applications with modern JavaScript, scalable APIs and clean architecture. I like turning complex requirements into reliable, maintainable software, and I'm now extending that foundation into AI-powered products using LLMs and RAG.
 
 <table>
   <tr>
@@ -85,12 +85,13 @@ I build production-focused web applications with modern JavaScript technologies,
 ### 🎓 EduManage
 **Education Management Platform**
 
-A full-stack platform to manage educational operations from one centralized dashboard.
+A full-stack platform that brings educational operations into one centralized dashboard.
 
 - Students, teachers, classes & subjects
 - Attendance, exams, fees & timetable
-- Notifications, authentication & authorization
-- AI assistant · REST API architecture
+- Authentication, authorization & notifications
+- Built-in AI assistant
+- REST API architecture
 
 `Next.js` `React` `Node.js` `Express.js` `MongoDB`
 
@@ -103,7 +104,11 @@ A full-stack platform to manage educational operations from one centralized dash
 ### 🎁 UphaarBox
 **Modern Gifting Platform**
 
-A full-stack e-commerce / gifting application focused on a smooth product discovery and purchasing experience.
+A full-stack e-commerce application focused on smooth product discovery and a simple purchasing experience.
+
+- Product browsing & discovery
+- Purchase flow
+- REST API backend
 
 `React` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
@@ -123,7 +128,7 @@ A full-stack e-commerce / gifting application focused on a smooth product discov
 
 ## 🤖 AI Engineering
 
-My goal is to combine **Full-Stack Engineering + AI** to build practical production applications. Currently building and exploring document Q&A, assistants and agents on top of a RAG pipeline:
+My goal is to combine **Full-Stack Engineering + AI** to build practical, production-ready applications. I'm currently building and exploring document Q&A, assistants and agents on top of a RAG pipeline:
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a1440','primaryBorderColor':'#8b84ff','primaryTextColor':'#e6e6ff','lineColor':'#8b84ff','secondaryColor':'#0b2230','tertiaryColor':'#0b0a1f'}}}%%
@@ -199,12 +204,14 @@ flowchart TB
 <table>
   <tr>
     <td align="center">
-      
-     <img src="https://res.cloudinary.com/datu4yytq/image/upload/v1793420513/Screenshot_2026-10-31_093621_pawoci.png" alt="GitHub stats" height="190" />
-      
+      <a href="https://github.com/rajeshsarkar95">
+        <img src="https://res.cloudinary.com/datu4yytq/image/upload/v1793420513/Screenshot_2026-10-31_093621_pawoci.png" alt="GitHub stats" height="190" />
+      </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsarkar95&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&title_color=8B84FF&text_color=C9D1D9&border_radius=12" alt="Most used languages" height="190" />
+      <a href="https://github.com/rajeshsarkar95?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsarkar95&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&title_color=8B84FF&text_color=C9D1D9&border_radius=12" alt="Most used languages" height="190" />
+      </a>
     </td>
   </tr>
 </table>
@@ -235,7 +242,7 @@ flowchart TB
 - [ ] Build RAG applications
 - [ ] Build AI Agents
 - [ ] Contribute to Open Source
-- [ ] Become a stronger Software Engineer
+- [ ] Grow into a stronger Software Engineer
 
 ## 💼 Open To
 
