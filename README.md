@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Rajesh Sarkar — Full Stack Developer · MERN · Next.js · AI" width="100%" />
+<img src="https://res.cloudinary.com/datu4yytq/image/upload/v1793420513/Screenshot_2026-10-31_093621_pawoci.png" alt="Rajesh Sarkar — Full Stack Developer · MERN · Next.js · AI" width="100%" />
 
 <a href="https://github.com/rajeshsarkar95">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=8B84FF&center=true&vCenter=true&width=700&height=40&lines=Building+production-ready+web+applications;Scalable+APIs+%C2%B7+Clean+architecture+%C2%B7+Great+UX;MERN+%C2%B7+Next.js+%C2%B7+TypeScript;Exploring+LLMs%2C+RAG+%26+AI+Agents" alt="Typing animation" />
