@@ -210,7 +210,11 @@ flowchart TB
     </td>
     <td align="center">
       <a href="https://github.com/rajeshsarkar95?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsarkar95&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&title_color=8B84FF&text_color=C9D1D9&border_radius=12" alt="Most used languages" height="190" />
+        <img
+    src="https://res.cloudinary.com/datu4yytq/image/upload/v1793426579/Most_Used_Languages_Dashboard_ashudh.png"
+    alt="Most Used Languages"
+    height="190"
+  />
       </a>
     </td>
   </tr>
