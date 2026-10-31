@@ -1,67 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Rajesh%20Sarkar&fontSize=54&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%C2%B7%20Next.js%20%C2%B7%20AI%20Engineering&descAlignY=60&descSize=18" alt="Rajesh Sarkar — Full Stack Developer" width="100%" />
+<img src="./assets/banner.svg" alt="Rajesh Sarkar — Full Stack Developer · MERN · Next.js · AI" width="100%" />
 
 <a href="https://github.com/rajeshsarkar95">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=8B84FF&center=true&vCenter=true&width=640&lines=Building+production-ready+web+applications;MERN+%C2%B7+Next.js+%C2%B7+TypeScript;Scalable+APIs+%26+clean+architecture;Exploring+LLMs%2C+RAG+%26+AI+Agents" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=8B84FF&center=true&vCenter=true&width=700&height=40&lines=Building+production-ready+web+applications;Scalable+APIs+%C2%B7+Clean+architecture+%C2%B7+Great+UX;MERN+%C2%B7+Next.js+%C2%B7+TypeScript;Exploring+LLMs%2C+RAG+%26+AI+Agents" alt="Typing animation" />
 </a>
 
-<br/>
-
 <p>
-  <a href="https://prorajeshsarkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B0B14?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://prorajeshsarkar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B84FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rajesh-sarkar-9777b0302/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/rajeshsarkar95"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-34D399?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" />
+  <a href="https://github.com/rajeshsarkar95?tab=followers"><img src="https://img.shields.io/github/followers/rajeshsarkar95?style=for-the-badge&logo=github&label=Followers&color=0D1117&labelColor=21262d" alt="GitHub followers" /></a>
+  <a href="https://github.com/rajeshsarkar95?tab=repositories"><img src="https://img.shields.io/badge/Open%20to%20Work-34D399?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work" /></a>
 </p>
 
 </div>
 
-I build production-focused web applications with modern JavaScript technologies, scalable APIs, clean architecture, and intuitive user experiences.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-Currently focused on **advanced Full-Stack Development, Data Structures & Algorithms, System Design, and Generative AI**.
+## 👨‍💻 About
 
----
+I build production-focused web applications with modern JavaScript technologies, scalable APIs, clean architecture, and intuitive user experiences. I enjoy turning complex requirements into reliable, maintainable software and continuously improving my engineering fundamentals.
 
-## 👨‍💻 About Me
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-```text
-Role        →  Full Stack Developer
-Frontend    →  React.js · Next.js · TypeScript
-Backend     →  Node.js · Express.js · REST APIs
-Database    →  MongoDB · MySQL · PostgreSQL
-Real-time   →  Socket.IO
-Cloud       →  AWS · Vercel · Render
-AI          →  LLM APIs · RAG · AI Applications
-Focus       →  Scalable & production-ready applications
-```
+**🔭 Currently**
 
-I enjoy turning complex requirements into reliable, maintainable software and continuously improving my engineering fundamentals.
+- Advanced Full-Stack Development
+- Data Structures & Algorithms
+- System Design
+- Generative AI & RAG
 
----
+</td>
+    <td width="50%" valign="top">
+
+**⚙️ At a glance**
+
+| | |
+| --- | --- |
+| **Role** | Full Stack Developer |
+| **Frontend** | React · Next.js · TypeScript |
+| **Backend** | Node.js · Express · REST APIs |
+| **Data** | MongoDB · MySQL · PostgreSQL |
+| **Real-time** | Socket.IO |
+| **Cloud** | AWS · Vercel · Render |
+
+</td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ⚡ Tech Stack
 
 <table>
   <tr>
-    <td width="170"><b>Frontend</b></td>
+    <td width="190"><b>🎨 Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=dark" alt="Frontend stack" /></td>
   </tr>
   <tr>
-    <td><b>Backend &amp; Database</b></td>
+    <td><b>🛠 Backend &amp; Database</b></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres&theme=dark" alt="Backend and database stack" /></td>
   </tr>
   <tr>
-    <td><b>Tools &amp; Cloud</b></td>
+    <td><b>☁️ Tools &amp; Cloud</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,aws,vercel,postman,docker&theme=dark" alt="Tools and cloud" /></td>
   </tr>
   <tr>
-    <td><b>AI &amp; Engineering</b></td>
-    <td>Generative AI · LLM APIs · RAG · AI Assistants · Prompt Engineering · AI-powered Web Apps</td>
+    <td><b>🤖 AI Engineering</b></td>
+    <td>LLM APIs · RAG · AI Assistants · Prompt Engineering · AI-powered Web Apps</td>
   </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Projects
 
@@ -81,7 +94,8 @@ A full-stack platform to manage educational operations from one centralized dash
 
 `Next.js` `React` `Node.js` `Express.js` `MongoDB`
 
-[**Live Demo ↗**](https://edu-manage-eta.vercel.app/) · [**Source ↗**](https://github.com/rajeshsarkar95/EduManage)
+<a href="https://edu-manage-eta.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-8B84FF?style=flat-square&logo=vercel&logoColor=white" alt="EduManage live demo" /></a>
+<a href="https://github.com/rajeshsarkar95/EduManage"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="EduManage source" /></a>
 
 </td>
     <td width="50%" valign="top">
@@ -93,7 +107,7 @@ A full-stack e-commerce / gifting application focused on a smooth product discov
 
 `React` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
-[**Live Site ↗**](https://uphaarbox.com/)
+<a href="https://uphaarbox.com/"><img src="https://img.shields.io/badge/Live%20Site-34D399?style=flat-square&logo=vercel&logoColor=white" alt="UphaarBox live site" /></a>
 
 </td>
   </tr>
@@ -101,55 +115,44 @@ A full-stack e-commerce / gifting application focused on a smooth product discov
 
 <p align="center">
   <a href="https://github.com/rajeshsarkar95/EduManage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshsarkar95&repo=EduManage&theme=tokyonight&hide_border=true" alt="EduManage repository card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajeshsarkar95&repo=EduManage&bg_color=0D1117&border_color=30363D&title_color=8B84FF&icon_color=38BDF8&text_color=C9D1D9&border_radius=12" alt="EduManage repository card" />
   </a>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🤖 AI Engineering
 
-Building and exploring applications around:
+My goal is to combine **Full-Stack Engineering + AI** to build practical production applications. Currently building and exploring document Q&A, assistants and agents on top of a RAG pipeline:
 
-```text
-LLMs
- │
- ├── AI Assistants
- ├── Document Q&A
- ├── RAG
- │    ├── Embeddings
- │    ├── Vector Search
- │    └── Context Retrieval
- └── AI Agents
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a1440','primaryBorderColor':'#8b84ff','primaryTextColor':'#e6e6ff','lineColor':'#8b84ff','secondaryColor':'#0b2230','tertiaryColor':'#0b0a1f'}}}%%
+flowchart LR
+  D[Documents] --> C[Chunking] --> E[Embeddings] --> V[(Vector DB)]
+  Q[User question] --> R[Retrieve context]
+  V --> R --> L[LLM] --> A[Grounded answer]
 ```
 
-My goal is to combine **Full-Stack Engineering + AI** to build practical production applications.
-
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🧠 Engineering Focus
 
-```text
-                     SOFTWARE ENGINEERING
-                             │
-           ┌─────────────────┼─────────────────┐
-           │                 │                 │
-       Frontend           Backend              AI
-           │                 │                 │
-      React / Next      Node / Express        LLM
-           │                 │                 │
-       TypeScript         REST APIs            RAG
-           │                 │                 │
-         Redux            Databases          Agents
-           │                 │                 │
-           └─────────────────┼─────────────────┘
-                             │
-                      System Design
-                             │
-                            DSA
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a1440','primaryBorderColor':'#8b84ff','primaryTextColor':'#e6e6ff','lineColor':'#38bdf8','tertiaryColor':'#0b0a1f'}}}%%
+flowchart TB
+  SE([Software Engineering]) --> FE[Frontend]
+  SE --> BE[Backend]
+  SE --> AI[AI]
+  FE --> FE1["React · Next.js<br/>TypeScript · Redux"]
+  BE --> BE1["Node · Express<br/>REST APIs · Databases"]
+  AI --> AI1["LLM APIs · RAG<br/>AI Agents"]
+  FE1 --> SD[System Design]
+  BE1 --> SD
+  AI1 --> SD
+  SD --> DSA[Data Structures & Algorithms]
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 📚 Currently Learning
 
@@ -157,15 +160,37 @@ My goal is to combine **Full-Stack Engineering + AI** to build practical product
 
 `Arrays` → `Strings` → `Hashing` → `Two Pointers` → `Sliding Window` → `Stack` → `Queue` → `Linked List` → `Trees` → `Graphs` → `Dynamic Programming`
 
-| Advanced Development | AI Engineering |
-| --- | --- |
-| TypeScript | LLM APIs |
-| System Design | Embeddings |
-| Backend Architecture | Vector Databases |
-| Performance Optimization | RAG |
-| Testing · CI/CD · AWS | AI Agents & Application Architecture |
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
----
+**Advanced Development**
+
+- TypeScript
+- System Design
+- Backend Architecture
+- Performance Optimization
+- Testing
+- CI/CD
+- AWS
+
+</td>
+    <td width="50%" valign="top">
+
+**AI Engineering**
+
+- LLM APIs
+- Embeddings
+- Vector Databases
+- RAG
+- AI Agents
+- AI Application Architecture
+
+</td>
+  </tr>
+</table>
+
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 📊 GitHub Activity
 
@@ -174,23 +199,29 @@ My goal is to combine **Full-Stack Engineering + AI** to build practical product
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rajeshsarkar95&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rajeshsarkar95&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D&title_color=8B84FF&icon_color=38BDF8&text_color=C9D1D9&ring_color=8B84FF&border_radius=12" alt="GitHub stats" height="190" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsarkar95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshsarkar95&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&title_color=8B84FF&text_color=C9D1D9&border_radius=12" alt="Most used languages" height="190" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=rajeshsarkar95&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" width="100%" />
+<img src="https://streak-stats.demolab.com?user=rajeshsarkar95&background=0D1117&border=30363D&stroke=30363D&ring=8B84FF&fire=F97316&currStreakNum=C9D1D9&currStreakLabel=8B84FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&border_radius=12" alt="GitHub streak" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshsarkar95&theme=tokyo-night&hide_border=true&area=true&radius=10&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajeshsarkar95&bg_color=0D1117&color=8B84FF&line=8B84FF&point=38BDF8&area=true&area_color=8B84FF&title_color=8B84FF&hide_border=true&radius=12&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajeshsarkar95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajeshsarkar95/rajeshsarkar95/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajeshsarkar95/rajeshsarkar95/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/rajeshsarkar95/rajeshsarkar95/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rajeshsarkar95&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" width="100%" />
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🎯 2026–2027 Engineering Goals
 
@@ -204,13 +235,11 @@ My goal is to combine **Full-Stack Engineering + AI** to build practical product
 - [ ] Contribute to Open Source
 - [ ] Become a stronger Software Engineer
 
----
-
 ## 💼 Open To
 
 `Full Stack Developer` `MERN Stack Developer` `React Developer` `Next.js Developer` `Software Engineer` `SDE-1` `AI / Full Stack Engineer`
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 🤝 Let's Connect
 
@@ -220,9 +249,4 @@ My goal is to combine **Full-Stack Engineering + AI** to build practical product
   <a href="https://prorajeshsarkar.vercel.app/">Portfolio</a>
 </p>
 
-<p align="center">
-  <b>Build. Learn. Ship. Improve.</b><br/>
-  <i>Always learning. Always building.</i>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer" alt="" width="100%" />
+<img src="./assets/footer.svg" alt="Build. Learn. Ship. Improve." width="100%" />
