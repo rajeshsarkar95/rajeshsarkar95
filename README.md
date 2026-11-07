@@ -22,7 +22,7 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 👨‍💻 About
+##  About
 
 Full Stack Developer focused on building production-ready web applications with modern JavaScript, scalable APIs and clean architecture. I like turning complex requirements into reliable, maintainable software, and I'm now extending that foundation into AI-powered products using LLMs and RAG.
 
@@ -73,20 +73,20 @@ Full Stack Developer focused on building production-ready web applications with 
     <td><img src="https://skillicons.dev/icons?i=git,github,aws,vercel,postman,docker&theme=dark" alt="Tools and cloud" /></td>
   </tr>
   <tr>
-    <td><b>🤖 AI Engineering</b></td>
+    <td><b> AI Engineering</b></td>
     <td>LLM APIs · RAG · AI Assistants · Prompt Engineering · AI-powered Web Apps</td>
   </tr>
 </table>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
 
-### 🎓 EduManage
+###  EduManage
 **Education Management Platform**
 
 A full-stack platform that brings educational operations into one centralized dashboard.
@@ -105,7 +105,7 @@ A full-stack platform that brings educational operations into one centralized da
 </td>
     <td width="50%" valign="top">
 
-### 🎁 UphaarBox
+###  UphaarBox
 **Modern Gifting Platform**
 
 A full-stack e-commerce application focused on smooth product discovery and a simple purchasing experience.
@@ -130,7 +130,7 @@ A full-stack e-commerce application focused on smooth product discovery and a si
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🤖 AI Engineering
+##  AI Engineering
 
 My goal is to combine **Full-Stack Engineering + AI** to build practical, production-ready applications. I'm currently building and exploring document Q&A, assistants and agents on top of a RAG pipeline:
 
@@ -144,7 +144,7 @@ flowchart LR
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🧠 Engineering Focus
+##  Engineering Focus
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a1440','primaryBorderColor':'#8b84ff','primaryTextColor':'#e6e6ff','lineColor':'#38bdf8','tertiaryColor':'#0b0a1f'}}}%%
@@ -163,7 +163,7 @@ flowchart TB
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 📚 Currently Learning
+## Currently Learning
 
 **Data Structures & Algorithms**
 
@@ -201,7 +201,7 @@ flowchart TB
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -240,7 +240,7 @@ flowchart TB
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🎯 2026–2027 Engineering Goals
+##  2026–2027 Engineering Goals
 
 - [x] Build production-grade Full Stack applications
 - [ ] Master JavaScript & TypeScript
@@ -252,7 +252,7 @@ flowchart TB
 - [ ] Contribute to Open Source
 - [ ] Grow into a stronger Software Engineer
 
-## 💼 Open To
+##  Open To
 
 `Full Stack Developer` `MERN Stack Developer` `React Developer` `Next.js Developer` `Software Engineer` `SDE-1` `AI / Full Stack Engineer`
 
