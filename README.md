@@ -30,7 +30,7 @@ Full Stack Developer focused on building production-ready web applications with 
   <tr>
     <td width="50%" valign="top">
 
-**🔭 Currently**
+** Currently**
 
 - Advanced Full-Stack Development
 - Data Structures & Algorithms
@@ -57,11 +57,11 @@ Full Stack Developer focused on building production-ready web applications with 
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## ⚡ Tech Stack
+##  Tech Stack
 
 <table>
   <tr>
-    <td width="190"><b>🎨 Frontend</b></td>
+    <td width="190"><b> Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux&theme=dark" alt="Frontend stack" /></td>
   </tr>
   <tr>
@@ -258,7 +258,7 @@ flowchart TB
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://github.com/rajeshsarkar95">GitHub</a> ·
